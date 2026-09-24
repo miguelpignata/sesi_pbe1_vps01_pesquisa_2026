@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "sistema": "Assistente de atendimento",
+    "tipo": "empresa",
+    "finalidade": "Responder dúvidas de clientes no e-commerce",
+    "tecnologia": "IA generativa",
+    "nivel_risco": "Médio",
+    "possui_revisao_humana": false
+  },
+  {
+    "id": 2,
+    "sistema": "Gerarador de avaliações",
+    "tipo": "escola",
+    "finalidade": "Gerar questões para avaliar os alunos",
+    "tecnologia": "Gerar Questões (GQ)",
+    "nivel_risco": "Baixo",
+    "possui_revisao_humana": true
+  },
+  {
+    "id": 3,
+    "sistema": "Reconhecimento de senhas",
+    "tipo": "empresa",
+    "finalidade": "Controle de acesso de funcionários",
+    "tecnologia": "Acesso de senhas",
+    "nivel_risco": "Alto",
+    "possui_revisao_humana": true
+  },
+  {
+    "id": 4,
+    "sistema": "Organizador de Rotina Pessoal",
+    "tipo": "pessoa",
+    "finalidade": "Gerenciamento de tarefas do dia a dia e rotinas",
+    "tecnologia": "IA no dia a dia",
+    "nivel_risco": "Baixo",
+    "possui_revisao_humana": true
+  },
+  {
+    "id": 5,
+    "sistema": "Gerador de receitas",
+    "tipo": "confeiteira",
+    "finalidade": "Ajudar em receitas para confeiteiros",
+    "tecnologia": "Cuzine IA",
+    "nivel_risco": "Baixo",
+    "possui_revisao_humana": true
+  }
+]
