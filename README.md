@@ -1,4 +1,4 @@
-# Pesquisa de campo Back-end
+# Pacientes IMC Back-end
 Exemplo simples de back-end com mockup de dados JSON e funcionalidades CRUD padrão
 
 ---
@@ -26,30 +26,18 @@ npm run dev
 ## Print dos testes e exemplo de requisições
 - Listar todos
 ![GET](./Prints/listar.png)
-
-
 - Buscar por ID
 ![GET](./Prints/buscar_id.png)
-
-
 - Buscar por risco
 ![GET](./Prints/buscar_risco.png)
-
-
 - Cadastrar
 ![POST](./Prints/cadastrar.png)
-
-
 - Atualizar
 ![PUT](./Prints/atualizar.png)
-
-
 - Deletar
 ![DEL](./Prints/deletar.png)
 
 ---
 
-## Ciente
-- ![Formulário](./prints/web.png)
-- Resposta:
-- ![Formulário](./prints/envio.png)
+## Cliente
+- ![Formulário](./Prints/formulario.png)
